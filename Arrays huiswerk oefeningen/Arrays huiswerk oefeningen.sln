@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays huiswerk oefeningen", "Arrays huiswerk oefeningen\Arrays huiswerk oefeningen.csproj", "{A66A6DD3-B8CC-4954-BEF2-35B4561F549C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66A6DD3-B8CC-4954-BEF2-35B4561F549C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66A6DD3-B8CC-4954-BEF2-35B4561F549C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66A6DD3-B8CC-4954-BEF2-35B4561F549C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66A6DD3-B8CC-4954-BEF2-35B4561F549C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB6A860E-E1DF-40B7-9558-4CC7F2409638}
+	EndGlobalSection
+EndGlobal
